@@ -31,7 +31,7 @@ def password_cracker():
     clear_console()
     
     print("====================================================")
-    print("              Password Cracker™ v4.0")
+    print("              Password Cracker Pro™ v4.1")
     print("====================================================")
     target = input("Enter server address (e.g., 123.45.67.89): ")
     username = input("Enter username (e.g., admin): ")
@@ -80,7 +80,7 @@ def main_menu():
     while True:
         clear_console()
         print("====================================================")
-        print("              Password Cracker™ v4.0")
+        print("              Password Cracker Pro™ v4.1")
         print("====================================================")
         print("1. Start Password Cracker")
         print("2. Credits")
